@@ -1,0 +1,3 @@
+/home/clement/Delivery/Minishell1/cmake-build-debug/CMakeFiles/Minishell1.dir
+/home/clement/Delivery/Minishell1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/clement/Delivery/Minishell1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

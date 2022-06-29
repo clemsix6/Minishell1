@@ -8,7 +8,7 @@ Le but du projet est de recréer un Shell en plusieurs parties.
 
 ### Shell
 
-Un shell est un programme dont le rôle est d'interpreter des commandes reçus. Voici les plus connus:
+Un shell est un programme dont le rôle est d'interpréter des commandes reçus. Voici les plus connus:
 
 | Name | Description                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,16 +18,16 @@ Un shell est un programme dont le rôle est d'interpreter des commandes reçus. 
 | Tcsh | Tcsh est une meilleure version du shell C (csh), qui a été développé à l'ère UNIX. Il est préféré par les programmeurs car sa syntaxe est très similaire au langage de programmation C, ils peuvent donc utiliser ses fonctionnalités de script sans avoir à apprendre bash. C'est également le shell par défaut des systèmes d'exploitation de la famille BSD.                                                                           |
 | Fish | Fish, vise à être plus simple à utiliser et plus convivial que ses concurrents. C'est un excellent choix pour les débutants Linux, car il utilise des couleurs pour aider l'utilisateur. Par exemple, les commandes avec une syntaxe incorrecte sont affichées en rouge, tandis que les bonnes sont en bleu.                                                                                                                              |
 
-Parmis tous ces shell notre objectif est de recoder Tcsh en raison de ses similitudes avec la programmation en C.
+Parmi tous ces shell notre objectif est de recoder Tcsh en raison de ses similitudes avec la programmation en C.
 
 
 
 ### Fonctionnalités
 
-Le minishell1 embarque des fonctionnalités de bases de TCSH, parmis elles se trouvent:
+Le minishell1 embarque des fonctionnalités de bases de TCSH, parmi elles se trouvent:
 
-* L'execution de programmes avec arguments
-* Déplacement dans les dossier avec CD
+* L'exécution de programmes avec arguments
+* Déplacement dans les dossiers avec CD
 
 
 
